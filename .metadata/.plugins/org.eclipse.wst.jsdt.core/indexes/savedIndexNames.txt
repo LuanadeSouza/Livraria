@@ -1,0 +1,2 @@
+INDEX VERSION 1.4+C:\Users\luana\Desktop\workSpaceLivraria\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+4010404357.index
