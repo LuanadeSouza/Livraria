@@ -1,1 +1,6 @@
 127.0.0.1 - - [07/Aug/2020:16:28:30 -0300] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [07/Aug/2020:16:41:50 -0300] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [07/Aug/2020:16:43:01 -0300] "GET /livraria/livro.xhtml HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [07/Aug/2020:16:43:01 -0300] "GET /livraria/login.xhtml HTTP/1.1" 200 1266
+0:0:0:0:0:0:0:1 - - [07/Aug/2020:16:43:01 -0300] "GET /livraria/javax.faces.resource/logo.png.xhtml;jsessionid=1C1FF4ABCE2A290B151D8970924B4A0B?ln=img HTTP/1.1" 200 12682
+0:0:0:0:0:0:0:1 - - [07/Aug/2020:16:43:01 -0300] "GET /favicon.ico HTTP/1.1" 404 762
